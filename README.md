@@ -1,48 +1,55 @@
 # 👋 Hi, I'm Usman Soni
 
-🔐 Security Researcher | 💻 Developer | ⚡ Offensive Mindset
+🔐 Security Researcher | 🧠 Offensive Mindset | 💻 Developer
 
 ---
 
 ## 🚀 About Me
 
-I focus on **application security, smart contract auditing, and real-world vulnerability analysis**.
+I focus on **application security, API testing, and smart contract auditing**.
 
-* 🔍 Finding and analyzing vulnerabilities in web apps & APIs
-* 🧠 Studying attack vectors & bypass techniques
-* ⚔️ Practicing offensive security (WAF bypass, auth flaws, logic bugs)
-* 🧾 Writing audit-style reports & PoCs
-
----
-
-## 🛠️ What I Work On
-
-* Web Security Testing (JWT, auth flows, API flaws)
-* Smart Contract Audits (logic bugs, edge cases)
-* Automation tools for recon & vulnerability discovery
-* Security writeups and PoCs
+* 🔍 Identifying real-world vulnerabilities in web applications
+* ⚔️ Practicing offensive security (JWT attacks, auth bypass, logic flaws)
+* 🧪 Building labs to simulate real attack scenarios
+* 🧾 Writing audit-style reports and PoCs
 
 ---
 
-## 📌 Featured Work
+## 🔥 Featured Project
 
-* 🔗 Portfolio: https://github.com/USMAN-C0D3/USMAN-PORTFOLIO
-* 🔍 Security Research (ongoing projects & findings)
+### 🧨 JWT Attack Lab
+
+A hands-on lab demonstrating real-world JWT vulnerabilities:
+
+* alg:none signature bypass
+* Weak secret brute-force
+* Privilege escalation via token forging
+* Expired token bypass
+
+👉 https://github.com/USMAN-C0D3/jwt-attack-lab
 
 ---
 
 ## ⚡ Current Focus
 
 * Advanced bug bounty hunting
-* Building security tools
-* Contributing more to open-source security
+* Web application security
+* Building offensive security tools
 
 ---
 
-## 📫 Connect With Me
+## 📌 Goals
+
+* Contribute to open-source security tools
+* Report impactful vulnerabilities
+* Grow as a security researcher
+
+---
+
+## 📫 Connect
 
 * GitHub: https://github.com/USMAN-C0D3
 
 ---
 
-> “Break systems. Understand them. Secure them.”
+> “Understand systems deeply. Break them intelligently. Secure them properly.”
